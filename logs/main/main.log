@@ -1,0 +1,11 @@
+2020-03-19 16:58:27,998[ERROR][elegram Executor][datesreceivers.DefaultBotSession] - File does not exist: data
+java.io.FileNotFoundException: File does not exist: data
+	at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:2396)
+	at Bot.onUpdateReceived(Bot.java:57)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2020-03-19 16:59:04,674[ERROR][elegram Executor][                             Bot] - Папка удалена
+2020-03-19 16:59:04,675[ERROR][elegram Executor][                             Bot] - Папка создана
+2020-03-19 16:59:57,942[ERROR][elegram Executor][                             Bot] - Папка удалена
+2020-03-19 16:59:57,943[ERROR][elegram Executor][                             Bot] - Папка создана

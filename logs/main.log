@@ -1,0 +1,174 @@
+2020-03-18 00:22:26,010[ERROR][elegram Executor][datesreceivers.DefaultBotSession] - 
+java.lang.NullPointerException
+	at Bot.onUpdateReceived(Bot.java:31)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2020-03-18 00:22:30,103[ERROR][elegram Executor][datesreceivers.DefaultBotSession] - 
+java.lang.NullPointerException
+	at Bot.onUpdateReceived(Bot.java:31)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2020-03-18 00:22:33,997[ERROR][elegram Executor][datesreceivers.DefaultBotSession] - 
+java.lang.NullPointerException
+	at Bot.onUpdateReceived(Bot.java:31)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2020-03-18 00:23:43,937[ERROR][elegram Executor][datesreceivers.DefaultBotSession] - 
+java.lang.NullPointerException
+	at Bot.onUpdateReceived(Bot.java:31)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2020-03-18 00:23:47,683[ERROR][elegram Executor][datesreceivers.DefaultBotSession] - 
+java.lang.NullPointerException
+	at Bot.onUpdateReceived(Bot.java:31)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2020-03-18 23:05:26,675[ERROR][elegram Executor][datesreceivers.DefaultBotSession] - Can't create an ImageOutputStream!
+javax.imageio.IIOException: Can't create an ImageOutputStream!
+	at java.desktop/javax.imageio.ImageIO.write(ImageIO.java:1551)
+	at HtmlParser.getPhotosFromVk(HtmlParser.java:41)
+	at Bot.onUpdateReceived(Bot.java:55)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2020-03-18 23:10:08,861[ERROR][elegram Executor][datesreceivers.DefaultBotSession] - Can't create an ImageOutputStream!
+javax.imageio.IIOException: Can't create an ImageOutputStream!
+	at java.desktop/javax.imageio.ImageIO.write(ImageIO.java:1551)
+	at HtmlParser.getPhotosFromVk(HtmlParser.java:41)
+	at Bot.onUpdateReceived(Bot.java:55)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2020-03-18 23:11:49,568[ERROR][elegram Executor][datesreceivers.DefaultBotSession] - Can't create an ImageOutputStream!
+javax.imageio.IIOException: Can't create an ImageOutputStream!
+	at java.desktop/javax.imageio.ImageIO.write(ImageIO.java:1551)
+	at HtmlParser.getPhotosFromVk(HtmlParser.java:41)
+	at Bot.onUpdateReceived(Bot.java:55)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2020-03-18 23:20:41,811[ERROR][elegram Executor][datesreceivers.DefaultBotSession] - Can't create an ImageOutputStream!
+javax.imageio.IIOException: Can't create an ImageOutputStream!
+	at java.desktop/javax.imageio.ImageIO.write(ImageIO.java:1551)
+	at HtmlParser.getPhotosFromVk(HtmlParser.java:41)
+	at Bot.onUpdateReceived(Bot.java:55)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2020-03-18 23:24:14,870[ERROR][elegram Executor][datesreceivers.DefaultBotSession] - Can't create an ImageOutputStream!
+javax.imageio.IIOException: Can't create an ImageOutputStream!
+	at java.desktop/javax.imageio.ImageIO.write(ImageIO.java:1551)
+	at HtmlParser.getPhotosFromVk(HtmlParser.java:41)
+	at Bot.onUpdateReceived(Bot.java:55)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2020-03-18 23:27:34,103[ERROR][elegram Executor][datesreceivers.DefaultBotSession] - Can't create an ImageOutputStream!
+javax.imageio.IIOException: Can't create an ImageOutputStream!
+	at java.desktop/javax.imageio.ImageIO.write(ImageIO.java:1551)
+	at HtmlParser.getPhotosFromVk(HtmlParser.java:47)
+	at Bot.onUpdateReceived(Bot.java:55)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2020-03-18 23:31:10,850[ERROR][elegram Executor][datesreceivers.DefaultBotSession] - Can't create an ImageOutputStream!
+javax.imageio.IIOException: Can't create an ImageOutputStream!
+	at java.desktop/javax.imageio.ImageIO.write(ImageIO.java:1551)
+	at HtmlParser.getPhotosFromVk(HtmlParser.java:46)
+	at Bot.onUpdateReceived(Bot.java:55)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2020-03-19 00:10:29,583[ERROR][elegram Executor][datesreceivers.DefaultBotSession] - Can't create an ImageOutputStream!
+javax.imageio.IIOException: Can't create an ImageOutputStream!
+	at java.desktop/javax.imageio.ImageIO.write(ImageIO.java:1551)
+	at HtmlParser.getPhotosFromVk(HtmlParser.java:48)
+	at Bot.onUpdateReceived(Bot.java:55)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2020-03-19 00:15:07,047[ERROR][elegram Executor][datesreceivers.DefaultBotSession] - Can't create an ImageOutputStream!
+javax.imageio.IIOException: Can't create an ImageOutputStream!
+	at java.desktop/javax.imageio.ImageIO.write(ImageIO.java:1551)
+	at HtmlParser.getPhotosFromVk(HtmlParser.java:48)
+	at Bot.onUpdateReceived(Bot.java:55)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2020-03-19 01:10:22,451[ERROR][elegram Executor][datesreceivers.DefaultBotSession] - File does not exist: data
+java.io.FileNotFoundException: File does not exist: data
+	at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:2396)
+	at Bot.onUpdateReceived(Bot.java:56)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2020-03-19 01:13:37,938[ERROR][elegram Executor][datesreceivers.DefaultBotSession] - File does not exist: data
+java.io.FileNotFoundException: File does not exist: data
+	at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:2396)
+	at Bot.onUpdateReceived(Bot.java:56)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2020-03-19 16:34:42,948[ERROR][elegram Executor][datesreceivers.DefaultBotSession] - 
+java.lang.NullPointerException
+	at Bot.onUpdateReceived(Bot.java:56)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2020-03-19 16:36:16,899[ERROR][elegram Executor][datesreceivers.DefaultBotSession] - 
+java.lang.NullPointerException
+	at Bot.onUpdateReceived(Bot.java:56)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2020-03-19 16:37:05,427[ERROR][elegram Executor][datesreceivers.DefaultBotSession] - 
+java.lang.NullPointerException
+	at Bot.onUpdateReceived(Bot.java:56)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2020-03-19 16:38:12,619[ERROR][elegram Executor][datesreceivers.DefaultBotSession] - Can't create an ImageOutputStream!
+javax.imageio.IIOException: Can't create an ImageOutputStream!
+	at java.desktop/javax.imageio.ImageIO.write(ImageIO.java:1551)
+	at HtmlParser.getPhotosFromVk(HtmlParser.java:42)
+	at Bot.onUpdateReceived(Bot.java:63)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2020-03-19 16:39:11,667[ERROR][elegram Executor][datesreceivers.DefaultBotSession] - File does not exist: data
+java.io.FileNotFoundException: File does not exist: data
+	at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:2396)
+	at Bot.onUpdateReceived(Bot.java:56)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2020-03-19 16:41:08,925[ERROR][elegram Executor][datesreceivers.DefaultBotSession] - File does not exist: data
+java.io.FileNotFoundException: File does not exist: data
+	at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:2396)
+	at Bot.onUpdateReceived(Bot.java:56)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2020-03-19 16:45:21,214[ERROR][elegram Executor][                             Bot] - Папка удалена
+2020-03-19 16:45:21,214[ERROR][elegram Executor][                             Bot] - Папка создана
+2020-03-19 16:46:11,162[ERROR][elegram Executor][                             Bot] - Папка удалена
+2020-03-19 16:46:11,163[ERROR][elegram Executor][                             Bot] - Папка создана
+2020-03-19 16:51:49,699[ERROR][elegram Executor][datesreceivers.DefaultBotSession] - File does not exist: data
+java.io.FileNotFoundException: File does not exist: data
+	at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:2396)
+	at Bot.onUpdateReceived(Bot.java:57)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
+2020-03-19 16:53:05,866[ERROR][elegram Executor][datesreceivers.DefaultBotSession] - File does not exist: data
+java.io.FileNotFoundException: File does not exist: data
+	at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:2396)
+	at Bot.onUpdateReceived(Bot.java:57)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:312)
